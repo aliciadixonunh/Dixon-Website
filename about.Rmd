@@ -2,4 +2,4 @@
 title: "About This Website"
 ---
 
-More about this website.
+This website was designed using Rmarkdown as a project for a graduate level class taught at the University of New Hampshire by Dr. Easton White.
