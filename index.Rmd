@@ -2,7 +2,12 @@
 title: "My Website"
 ---
 
-Hello, Website!
+# H1 Hello, Website!
+
+My name is Alicia Dixon and I am a graduate student at the University of New Hampshire.
+
+
+
 
 For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
 
