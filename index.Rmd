@@ -12,7 +12,7 @@ title: "Alicia Dixon"
 ## My research
 
 
-I am a second year Master's student at the University of New Hampshire in the [Water Quality Analysis Laboratory](https://wrrc.unh.edu/unh-water-quality-analysis-laboratory-0) run by Dr. Bill McDowell's lab](. I am interested in how climate change and corresponding weather events are affecting stream biogeochemsitry. My research focuses on leaf litter leachate patterns emerging due to severe climatic events in tropical ecosystems and how this leachate may play a role in the metabolic regimes of freshwater systems. I use large datasets primarily from in-situ sensors and perform time series and multivariate data analysis. 
+I am a second year Master's student at the University of New Hampshire in the [Water Quality Analysis Laboratory](https://wrrc.unh.edu/unh-water-quality-analysis-laboratory-0) run by Dr. Bill McDowell's lab. I am interested in how climate change and corresponding weather events are affecting stream biogeochemsitry. My research focuses on leaf litter leachate patterns emerging due to severe climatic events in tropical ecosystems and how this leachate may play a role in the metabolic regimes of freshwater systems. I use large datasets primarily from in-situ sensors and perform time series and multivariate data analysis. 
 
 ---
 

@@ -5,5 +5,7 @@ title: "About This Website"
 This website was created using Rmarkdown as a project for a graduate level class taught at the University of New Hampshire by  Dr. Easton White.
 
 Contact:
+
 <alicia.dixon@unh.edu>
+
 <https://wrrc.unh.edu/unh-water-quality-analysis-laboratory-0>
